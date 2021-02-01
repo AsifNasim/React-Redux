@@ -1,0 +1,1 @@
+export const TABLE_OF_FIVE = 'TABLE_OF_FIVE'
